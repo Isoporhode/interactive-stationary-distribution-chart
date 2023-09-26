@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/interactive-stationary-distribution-chart/static/css/main.073c9b0a.css",
+    "main.js": "/interactive-stationary-distribution-chart/static/js/main.5ba7a03e.js",
+    "static/js/787.6b4323a4.chunk.js": "/interactive-stationary-distribution-chart/static/js/787.6b4323a4.chunk.js",
+    "index.html": "/interactive-stationary-distribution-chart/index.html",
+    "main.073c9b0a.css.map": "/interactive-stationary-distribution-chart/static/css/main.073c9b0a.css.map",
+    "main.5ba7a03e.js.map": "/interactive-stationary-distribution-chart/static/js/main.5ba7a03e.js.map",
+    "787.6b4323a4.chunk.js.map": "/interactive-stationary-distribution-chart/static/js/787.6b4323a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5ba7a03e.js"
+  ]
+}
